@@ -3,5 +3,5 @@
 ### Version.
 
 - 20210904 : Tensorflow Decision Forests(Single)
-- 20210905 : Tensorflow Decision Forests + NN
+- 20210905 : Tensorflow Decision Forests + NN + TabNet
 
